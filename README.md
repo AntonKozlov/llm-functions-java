@@ -6,6 +6,13 @@ The repo contains the library for implementation of the functions.
 
 Refer to DemoTool.java for an exmpale of a tool.
 
+## Build lib
+
+```
+mvn install
+```
+
+
 # Example
 
 ```
